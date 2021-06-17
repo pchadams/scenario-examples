@@ -18,6 +18,11 @@
     ],
     "scenarios": [
       {
+        "title": "Pablos First Scenario",
+        "description": "Pablos Scenario 101",
+        "id": "myfirstscenario"
+      },
+      {
         "title": "Creating Your First Katacoda Scenario",
         "description": "Learn how to create your first Katacoda scenario",
         "id": "create-scenario-101"
